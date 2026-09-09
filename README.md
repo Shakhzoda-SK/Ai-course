@@ -12,4 +12,4 @@
 
 -codes
 
-[https://github.com/Shakhzoda-SK/Ai-course/blob/main/README.md]
+(https://github.com/Shakhzoda-SK/Ai-course/blob/main/README.md)
