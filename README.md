@@ -1,6 +1,6 @@
 # Ai-course
 
-##My lessons
+## My lessons
 
 **Pay attention to every detail**
 
