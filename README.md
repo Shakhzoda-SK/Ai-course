@@ -1,2 +1,13 @@
 # Ai-course
-course materials, projects, and codes
+
+##My lessons
+
+**Pay attention to every detail**
+
+*I'm just a girl*
+
+-course materials
+
+-projects
+
+-codes
