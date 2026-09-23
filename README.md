@@ -18,6 +18,8 @@
 
 [https://canva.link/5ut9z0sjcu7cygo]
 
+[https://canva.link/cryzn5d1p554fth]
+
 # Figma with the help of AI
 
 [https://www.figma.com/design/Nf4TWg4mbr2RYjDmI7EF9U]
