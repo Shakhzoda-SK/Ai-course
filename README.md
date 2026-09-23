@@ -24,6 +24,11 @@
 
 [https://www.figma.com/design/Nf4TWg4mbr2RYjDmI7EF9U]
 
+# Kimi chat about Korea
+
+[https://www.kimi.ai/chat/1a08ae1d-c882-87a6-8000-09111594c677?chat_enter_method=history]
+
+
 # Deepseek
 
 [https://docs.google.com/document/d/1Ws7w7MjdwUigFX3WXGHV-7nUpxiIC98FqQ1znn_O9CA/edit?usp=sharing]
