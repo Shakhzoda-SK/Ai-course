@@ -14,4 +14,6 @@
 
 (https://github.com/Shakhzoda-SK/Ai-course/blob/main/README.md)
 
+# Canva
+
 [https://canva.link/5ut9z0sjcu7cygo]
