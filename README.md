@@ -43,3 +43,6 @@
 
 [https://docs.google.com/document/d/1UtDS3GynUNYfmao3EU_RlrQTenJbKvMwx1warNXiaKo/edit?usp=sharing]
 
+# Gamma
+
+[https://gamma.app/generations/S5elXnqozsN3bYXbwBA0H]
