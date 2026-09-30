@@ -46,3 +46,9 @@
 # Gamma
 
 [https://gamma.app/generations/S5elXnqozsN3bYXbwBA0H]
+
+# Hailuo
+
+[https://cdn.hailuoai.video/moss/prod/2026-09-30-12/video/1790743504634041071-1_video_raw_86d5832ac58cd95a638b3d16dc6cc366_561563825166299145.mp4]
+
+
